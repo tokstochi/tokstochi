@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tokstochi
-- 👀 I’m interested in Data science and machine learning 
-- 🌱 I’m currently learning data engineering 
+- 👀 I’m interested in Data Engineering 
+- 🌱 I’m currently learning pyspark 
 - 💞️ I’m looking to collaborate on artificial intelligence 
 - 📫 How to reach me, okafor_tochi@yahoo.com 
 
