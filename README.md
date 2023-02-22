@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tokstochi
-- 👀 I’m interested in Data Engineering 
-- 🌱 I’m currently learning Apache Spark (pyspark)
-- 💞️ I’m looking to collaborate on ETL/ELT pipelining projects, processing of big data on pyspark too
+- 👀 I’m a Data Engineer 
+- 🌱 I’m currently learning data streaming with kafta and other technologies. 
+- 💞️ I’m looking to projects on airflow, apache spark, aws ETL/ELT pipelining projects,big data and cloud computing in general.
 - 📫 How to reach me, okafor_tochi@yahoo.com 
 
 <!---
